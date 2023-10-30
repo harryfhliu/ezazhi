@@ -1,49 +1,22 @@
-#### liberxue.github.io demo [查看](https://liberxue.github.io/)
+# E-杂志 书籍杂志收集站
 
+该网站是一个专注于收集和分享英文电子书和杂志的在线平台。无论您是经济学爱好者、科技迷还是体育追随者，这个网站都为您提供了丰富多样的内容。
 
-`Jekyll Themes`
-----------
-  
-### Jekyll轻量级极简博客
+## 主要特点
 
-#### 第一步是点击[fork](https://github.com/Liberxue/liberxue.github.io#fork-destination-box)
-##### 第二步: 修改_config.yml 中的url 为您的域名
-#### OK 好了  就这么简单  
-#### 我不要任何版权也不需要您在捐款，帮忙star下 一个🌟 谢谢 😄
-- [x] 自动生成标签
-- [x] 自动生成json搜索
-- [x] 自适应模板
-- [x] 自动生成feed.xml
-- [x] 自动生成分页
-- [x] 修改_config.yml 的links 为您的菜单
-- [x] 修改_config.yml  的paginate 为您的按照多少页分页
+- 广泛内容收集：网站涵盖了经济、科技、体育等多个领域的电子书和杂志，为用户提供了丰富的阅读选择。
+- 英文资源丰富：收集的图书和杂志主要是英文版本，为英语学习者和英语阅读爱好者提供了宝贵的学习和阅读资源。
+- 多种格式支持：该网站提供多种电子书和杂志的格式，如PDF、EPUB等，以便用户根据自己的设备和喜好选择适合的阅读方式。
+- 用户分享和推荐：用户可以在网站上分享自己喜欢的图书和杂志，也可以通过评分和评论向其他用户推荐优秀的阅读材料。
 
-![uiliberxue](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/ui.jpg) 
- 
- ----------
-![博客搜索](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/01.gif) 
+## 使用指南
 
-轻量级 最小blog 
-第一步: 点击[fork](https://github.com/Liberxue/liberxue.github.io#fork-destination-box)
- 
-----
+- 在网站主页上，您可以浏览按照不同领域分类的电子书和杂志。
+- 通过搜索功能，您可以根据关键词查找特定的图书或杂志。
+- 在图书或杂志的详细页面，您可以查看相关信息、用户评分和评论。
+- 网站还提供了下载选项，让您可以将您喜欢的图书或杂志保存到您的设备上进行离线阅读。
+- 该网站旨在为用户提供便捷的英文电子书和杂志资源，满足用户的阅读需求和兴趣。无论您是学术研究者、专业人士还是阅读爱好者，这个网站都会成为您不可或缺的在线图书馆。
 
-![fork操作](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/02.gif)
-  
-  
+请注意，为了保护版权和知识产权，网站只提供合法获取的电子书和杂志资源，并鼓励用户尊重作者的权益。如涉及版权纠纷，请联系本人harryfhliu@gmail.com。
 
-
-第二步: 修改_config.yml 中的url 为您的域名
-
-![修改_config.yml 中的url 为您的域名](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/04.gif)
-  
-
-
-
-
-* [提交Issues](https://github.com/Liberxue/liberxue.github.io/issues)
- 
-* [发邮件](mailto:liberxue@gmail.com)
- 
-* [Twitter](https://twitter.com/liberxue).
-
+欢迎访问该网站并探索其中的丰富资源，开启您的阅读旅程！

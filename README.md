@@ -1,70 +1,21 @@
-                .::         .::                       .::      .::                 
-                .::       .:.::                        .::   .::                    
-                .::         .::         .::    .: .:::  .:: .::   .::  .::   .::    
-                .::      .::.:: .::   .:   .::  .::       .::     .::  .:: .:   .:: 
-                .::      .::.::   .::.::::: .:: .::     .:: .::   .::  .::.::::: .::
-                .::      .::.::   .::.:         .::    .::   .::  .::  .::.:        
-                .::::::::.::.:: .::    .::::   .:::   .::      .::  .::.::  .::::   
-                          Copyright (c) 2016-2018 liberxue
-                                 http://www.liberxue.com
-                           
-#### liberxue.github.io preview (demo) (http://www.liberxue.com)
+# E-杂志 书籍杂志收集站
 
-#### `Jekyll Themes`
-----------
-[简体中文版帮助文档README](/ChinaREADME.md)
-#### ``Lightweight``  ``Minimalist``  ``Jekyll blog``
+This website is an online platform dedicated to collecting and sharing English e-books and magazines. Whether you are an economics enthusiast, a tech lover, or a sports follower, this website provides you with a wide range of content.
 
-#### The first step is to click [fork][https://github.com/liberxue/liberxue.github.io/fork]
-#### The second step is to modify the _config.yml in URL for your domain name
+## Key Features
+- Extensive Content Collection: The website covers e-books and magazines from various fields such as economics, technology, sports, and more, offering users a diverse selection of reading materials.
+- Abundant English Resources: The collected books and magazines are primarily in English, providing valuable learning and reading resources for English language learners and enthusiasts.
+- Multiple Format Support: The website offers various formats for e-books and magazines, such as PDF, EPUB, etc., allowing users to choose their preferred reading method based on their devices and preferences.
+- User Sharing and Recommendations: Users can share their favorite books and magazines on the website, as well as recommend excellent reading materials to other users through ratings and comments.
 
-#### OK all right, it's that simple
+## User Guide
 
-#### I don't want any copyright also don't need you to donate, I only need you with a star 🌟  Thx 😄
+- On the website's homepage, you can browse e-books and magazines categorized by different fields.
+- Utilize the search function to find specific books or magazines based on keywords.
+- In the detailed page of a book or magazine, you can view relevant information, user ratings, and comments.
+- The website also provides download options, allowing you to save your favorite books or magazines on your device for offline reading.
+- This website aims to provide users with convenient English e-book and magazine resources to meet their reading needs and interests. Whether you are an academic researcher, a professional, or a reading enthusiast, this website will become an indispensable online library for you.
 
-- [x] Automatic generation tag
-- [x] Automatic generation of JSON search
-- [x] Adaptive template
-- [x] Automatic generation of feed.xml
-- [x] Automatic paging generation
-- [x] Modify _config.yml's links for your menu
-- [x] Modify the _config.yml of paginate for how many pages you want to page
-## Stargazers over time
+Please note that the website only provides legally obtained e-books and magazine resources to protect copyright and intellectual property rights. Users are encouraged to respect the rights of authors. If there are any copyright disputes, please contact me at harryfhliu@gmail.com.
 
-[![Stargazers over time](https://starchart.cc/Liberxue/liberxue.github.io.svg)](https://starchart.cc/Liberxue/liberxue.github.io)
-
-![uiliberxue](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/ui.jpg) 
-
- ![archives](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/archives.png) 
-
- ![blog](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/blog.png) 
-
- ![tags](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/tags.png) 
-
-  ![404](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/404.png) 
-
- ----------
-![blog JSON search](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/01.gif) 
-
-#### 1.First step Click[fork](https://github.com/Liberxue/liberxue.github.io#fork-destination-box)
- 
-----
-
-![fork](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/02.gif)
-  
-  
-
-
-#### 2. modify _config.yml url URL for your domain
-
-![modify _config.yml url URL for your domain](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/04.gif)
-  
-
-
-
-* [Issues](https://github.com/Liberxue/liberxue.github.io/issues)
- 
-* [Email](mailto:liberxue@gmail.com)
- 
-* [Twitter](https://twitter.com/liberxue).
-
+Feel free to visit the website and explore its rich resources, embarking on your reading journey!

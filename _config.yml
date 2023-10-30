@@ -2,9 +2,9 @@
 title:            "E-杂志 | 书籍 杂志收集与分享"
 description:      "收集分享电子书和电子杂志的一个试验性的小站。"
 url:              https://ezazhi.harryliu.cn # 域名
-signoff:          "LiberXue" # Your name
-facebook_appid:   #liberxue
-google_analytics: UA-101222464-1
+signoff:          "沐杰" # Your name
+facebook_appid:   harryfhliu@gmail.com
+google_analytics: UA-132468723-1
 share:            true 
 # 分页
 paginate: 15
